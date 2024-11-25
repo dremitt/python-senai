@@ -1,0 +1,5 @@
+print("hello world")
+print("andré dos anjos")
+print("governo")
+print("dado")
+print("pasta")
